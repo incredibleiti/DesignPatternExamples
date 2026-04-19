@@ -3,7 +3,7 @@
 # --- CONFIGURATION ---
 # Define your date range (YYYY-MM-DD)
 START_DATE="2026-02-24"
-END_DATE="2026-02-24"
+END_DATE="2026-02-27"
 
 # File to modify and commit
 FILE="backdated.txt"
